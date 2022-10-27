@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\BancoAPI\Aplication\obj\Debug\net6.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BancoAPI\Aplication\obj\Debug\net6.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BancoAPI\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BancoAPI\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BancoAPI\Aplication\obj\Debug\net6.0\Aplication.csproj.CoreCompileInputs.cache
